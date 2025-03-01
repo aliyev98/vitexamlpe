@@ -11,6 +11,7 @@ function App() {
     <p>hello world</p>
     <p>hello netfly</p>
     <p>hello asdf</p>
+    <img className='img' src="/MainBefore.jpg" alt="logo" />
     </>
   )
 }
